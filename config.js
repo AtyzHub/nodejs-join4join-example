@@ -6,6 +6,6 @@ module.exports = {
     color: "#e84e4b",
     admin: [""],
     owner: [""],
-    api_key: "YOUR API KEY (https://join4join.xyz/profile)",
+    api_key: "ae258c1849284013bad9840e5fe2dbb5",
     api_url: "https://join4join.xyz",
 }
